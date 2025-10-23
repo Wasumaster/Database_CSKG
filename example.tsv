@@ -1,0 +1,210 @@
+id	node1	relation	node2	node1;label	node2;label	relation;label	relation;dimension	source	sentence
+/c/en/0-/r/DefinedAs-/c/en/empty_set-0000	/c/en/0	/r/DefinedAs	/c/en/empty_set	0	empty set	defined as		CN	[[0]] is the [[empty set]].
+/c/en/0-/r/DefinedAs-/c/en/first_limit_ordinal-0000	/c/en/0	/r/DefinedAs	/c/en/first_limit_ordinal	0	first limit ordinal	defined as		CN	[[0]] is the [[first limit ordinal]].
+/c/en/0-/r/DefinedAs-/c/en/number_zero-0000	/c/en/0	/r/DefinedAs	/c/en/number_zero	0	number zero	defined as		CN	[[0]] is the [[number zero]].
+/c/en/0-/r/HasContext-/c/en/internet_slang-0000	/c/en/0	/r/HasContext	/c/en/internet_slang	0	internet slang	has context		CN	
+/c/en/0-/r/HasProperty-/c/en/pronounced_zero-0000	/c/en/0	/r/HasProperty	/c/en/pronounced_zero	0	pronounced zero	has property		CN	[["0"]] is [[pronounced zero]]
+/c/en/0-/r/IsA-/c/en/set_containing_one_element-0000	/c/en/0	/r/IsA	/c/en/set_containing_one_element	0	set containing one element	is a		CN	[[{0}]] is a type of [[set containing one element]].
+/c/en/0-/r/RelatedTo-/c/en/1-0000	/c/en/0	/r/RelatedTo	/c/en/1	0	1	related to		CN	
+/c/en/0-/r/RelatedTo-/c/en/2-0000	/c/en/0	/r/RelatedTo	/c/en/2	0	2	related to		CN	
+/c/en/0.22_inch_calibre-/r/IsA-/c/en/5.6_millimetres-0000	/c/en/0.22_inch_calibre	/r/IsA	/c/en/5.6_millimetres	0.22 inch calibre	5.6 millimetres	is a		CN	[[0.22 inch calibre]] is [[5.6 millimetres]]
+/c/en/0/a/wn-/r/SimilarTo-/c/en/cardinal/a/wn-0000	/c/en/0/a/wn	/r/SimilarTo	/c/en/cardinal/a/wn	0	cardinal	similar to		CN	[[0]] is similar to [[cardinal]]
+/c/en/0/n-/r/Antonym-/c/en/1-0000	/c/en/0/n	/r/Antonym	/c/en/1	0	1	antonym		CN	
+/c/en/0/n-/r/HasContext-/c/en/electrical_engineering-0000	/c/en/0/n	/r/HasContext	/c/en/electrical_engineering	0	electrical engineering	has context		CN	
+/c/en/0/n-/r/RelatedTo-/c/en/low-0000	/c/en/0/n	/r/RelatedTo	/c/en/low	0	low	related to		CN	
+/c/en/0/n/wn/quantity-/r/Synonym-/c/en/zero/n/wn/quantity-0000	/c/en/0/n/wn/quantity	/r/Synonym	/c/en/zero/n/wn/quantity	0	zero	synonym		CN	[[0]] is a synonym of [[zero]]
+/c/en/0/n/wp/number-/r/Synonym-/c/en/0/n/wp/number-0000	/c/en/0/n/wp/number	/r/Synonym	/c/en/0/n/wp/number	0	0	synonym		CN	
+/c/en/000-/r/RelatedTo-/c/en/112-0000	/c/en/000	/r/RelatedTo	/c/en/112	000	112	related to		CN	
+/c/en/000-/r/RelatedTo-/c/en/911-0000	/c/en/000	/r/RelatedTo	/c/en/911	000	911	related to		CN	
+/c/en/000-/r/RelatedTo-/c/en/999-0000	/c/en/000	/r/RelatedTo	/c/en/999	000	999	related to		CN	
+/c/en/000-/r/RelatedTo-/c/en/triple_o-0000	/c/en/000	/r/RelatedTo	/c/en/triple_o	000	triple o	related to		CN	
+/c/en/000/n-/r/RelatedTo-/c/en/emergency_service-0000	/c/en/000/n	/r/RelatedTo	/c/en/emergency_service	000	emergency service	related to		CN	
+/c/en/007/n-/r/RelatedTo-/c/en/james_bond-0000	/c/en/007/n	/r/RelatedTo	/c/en/james_bond	007	james bond	related to		CN	
+/c/en/007/n-/r/RelatedTo-/c/en/mi6-0000	/c/en/007/n	/r/RelatedTo	/c/en/mi6	007	mi6	related to		CN	
+/c/en/007/n-/r/RelatedTo-/c/en/special_agent-0000	/c/en/007/n	/r/RelatedTo	/c/en/special_agent	007	special agent	related to		CN	
+/c/en/007/n-/r/Synonym-/c/en/james_bond-0000	/c/en/007/n	/r/Synonym	/c/en/james_bond	007	james bond	synonym		CN	
+/c/en/007s/n-/r/FormOf-/c/en/007-0000	/c/en/007s/n	/r/FormOf	/c/en/007	007s	007	form of		CN	
+/c/en/00_s/n-/r/FormOf-/c/en/00s-0000	/c/en/00_s/n	/r/FormOf	/c/en/00s	00 s	00s	form of		CN	
+/c/en/00s/n-/r/RelatedTo-/c/en/1900s-0000	/c/en/00s/n	/r/RelatedTo	/c/en/1900s	00s	1900s	related to		CN	
+/c/en/00s/n-/r/RelatedTo-/c/en/2000s-0000	/c/en/00s/n	/r/RelatedTo	/c/en/2000s	00s	2000s	related to		CN	
+/c/en/00s/n-/r/RelatedTo-/c/en/decade-0000	/c/en/00s/n	/r/RelatedTo	/c/en/decade	00s	decade	related to		CN	
+/c/en/00t_shirts-/r/AtLocation-/c/en/drawer-0000	/c/en/00t_shirts	/r/AtLocation	/c/en/drawer	00t shirts	drawer	at location		CN	*Something you find in [[a drawer]] is [[00t-shirts]]
+/c/en/0800_number/n-/r/HasContext-/c/en/nz-0000	/c/en/0800_number/n	/r/HasContext	/c/en/nz	0800 number	nz	has context		CN	
+/c/en/0800_number/n-/r/HasContext-/c/en/uk-0000	/c/en/0800_number/n	/r/HasContext	/c/en/uk	0800 number	uk	has context		CN	
+/c/en/0800_number/n-/r/RelatedTo-/c/en/free-0000	/c/en/0800_number/n	/r/RelatedTo	/c/en/free	0800 number	free	related to		CN	
+/c/en/0800_number/n-/r/RelatedTo-/c/en/telephone_number-0000	/c/en/0800_number/n	/r/RelatedTo	/c/en/telephone_number	0800 number	telephone number	related to		CN	
+/c/en/0800_numbers/n-/r/FormOf-/c/en/0800_number-0000	/c/en/0800_numbers/n	/r/FormOf	/c/en/0800_number	0800 numbers	0800 number	form of		CN	
+/c/en/0_0/a-/r/HasContext-/c/en/aviation-0000	/c/en/0_0/a	/r/HasContext	/c/en/aviation	0 0	aviation	has context		CN	
+/c/en/0_100-/r/DerivedFrom-/c/en/0-0000	/c/en/0_100	/r/DerivedFrom	/c/en/0	0 100	0	derived from		CN	
+/c/en/0_100-/r/DerivedFrom-/c/en/100-0000	/c/en/0_100	/r/DerivedFrom	/c/en/100	0 100	100	derived from		CN	
+/c/en/0_100/n-/r/HasContext-/c/en/australia-0000	/c/en/0_100/n	/r/HasContext	/c/en/australia	0 100	australia	has context		CN	
+/c/en/0_100/n-/r/HasContext-/c/en/automotive-0000	/c/en/0_100/n	/r/HasContext	/c/en/automotive	0 100	automotive	has context		CN	
+/c/en/0_100/n-/r/HasContext-/c/en/us-0000	/c/en/0_100/n	/r/HasContext	/c/en/us	0 100	us	has context		CN	
+/c/en/0_100/n-/r/RelatedTo-/c/en/km_h-0000	/c/en/0_100/n	/r/RelatedTo	/c/en/km_h	0 100	km h	related to		CN	
+/c/en/0_100/n-/r/RelatedTo-/c/en/mph-0000	/c/en/0_100/n	/r/RelatedTo	/c/en/mph	0 100	mph	related to		CN	
+/c/en/0_100/n-/r/RelatedTo-/c/en/standing_start-0000	/c/en/0_100/n	/r/RelatedTo	/c/en/standing_start	0 100	standing start	related to		CN	
+/c/en/0_100/n-/r/Synonym-/c/en/0_60-0000	/c/en/0_100/n	/r/Synonym	/c/en/0_60	0 100	0 60	synonym		CN	
+/c/en/0_10_0/n-/r/IsA-/c/en/decapod-0000	/c/en/0_10_0/n	/r/IsA	/c/en/decapod	0 10 0	decapod	is a		CN	
+/c/en/0_10_0/n-/r/RelatedTo-/c/en/driving_wheel-0000	/c/en/0_10_0/n	/r/RelatedTo	/c/en/driving_wheel	0 10 0	driving wheel	related to		CN	
+/c/en/0_10_0/n-/r/RelatedTo-/c/en/leading_wheel-0000	/c/en/0_10_0/n	/r/RelatedTo	/c/en/leading_wheel	0 10 0	leading wheel	related to		CN	
+/c/en/0_10_0/n-/r/RelatedTo-/c/en/steam_locomotive-0000	/c/en/0_10_0/n	/r/RelatedTo	/c/en/steam_locomotive	0 10 0	steam locomotive	related to		CN	
+/c/en/0_10_0/n-/r/RelatedTo-/c/en/trailing_wheel-0000	/c/en/0_10_0/n	/r/RelatedTo	/c/en/trailing_wheel	0 10 0	trailing wheel	related to		CN	
+/c/en/0_10_0s/n-/r/FormOf-/c/en/0_10_0-0000	/c/en/0_10_0s/n	/r/FormOf	/c/en/0_10_0	0 10 0s	0 10 0	form of		CN	
+/c/en/0_10_0s/n-/r/RelatedTo-/c/en/0_10_0-0000	/c/en/0_10_0s/n	/r/RelatedTo	/c/en/0_10_0	0 10 0s	0 10 0	related to		CN	
+/c/en/0_10_2/n-/r/RelatedTo-/c/en/driving_wheel-0000	/c/en/0_10_2/n	/r/RelatedTo	/c/en/driving_wheel	0 10 2	driving wheel	related to		CN	
+/c/en/0_10_2/n-/r/RelatedTo-/c/en/leading_wheel-0000	/c/en/0_10_2/n	/r/RelatedTo	/c/en/leading_wheel	0 10 2	leading wheel	related to		CN	
+/c/en/0_10_2/n-/r/RelatedTo-/c/en/steam_locomotive-0000	/c/en/0_10_2/n	/r/RelatedTo	/c/en/steam_locomotive	0 10 2	steam locomotive	related to		CN	
+/c/en/0_10_2/n-/r/RelatedTo-/c/en/trailing_wheel-0000	/c/en/0_10_2/n	/r/RelatedTo	/c/en/trailing_wheel	0 10 2	trailing wheel	related to		CN	
+/c/en/0_10_2/n-/r/Synonym-/c/en/union-0000	/c/en/0_10_2/n	/r/Synonym	/c/en/union	0 10 2	union	synonym		CN	
+/c/en/0_10_2s/n-/r/FormOf-/c/en/0_10_2-0000	/c/en/0_10_2s/n	/r/FormOf	/c/en/0_10_2	0 10 2s	0 10 2	form of		CN	
+/c/en/0_10_2s/n-/r/RelatedTo-/c/en/0_10_2-0000	/c/en/0_10_2s/n	/r/RelatedTo	/c/en/0_10_2	0 10 2s	0 10 2	related to		CN	
+/c/en/0_12_0/n-/r/RelatedTo-/c/en/driving_wheel-0000	/c/en/0_12_0/n	/r/RelatedTo	/c/en/driving_wheel	0 12 0	driving wheel	related to		CN	
+/c/en/0_12_0/n-/r/RelatedTo-/c/en/leading_wheel-0000	/c/en/0_12_0/n	/r/RelatedTo	/c/en/leading_wheel	0 12 0	leading wheel	related to		CN	
+/c/en/0_12_0/n-/r/RelatedTo-/c/en/steam_locomotive-0000	/c/en/0_12_0/n	/r/RelatedTo	/c/en/steam_locomotive	0 12 0	steam locomotive	related to		CN	
+/c/en/0_12_0/n-/r/RelatedTo-/c/en/trailing_wheel-0000	/c/en/0_12_0/n	/r/RelatedTo	/c/en/trailing_wheel	0 12 0	trailing wheel	related to		CN	
+/c/en/0_12_0s/n-/r/FormOf-/c/en/0_12_0-0000	/c/en/0_12_0s/n	/r/FormOf	/c/en/0_12_0	0 12 0s	0 12 0	form of		CN	
+/c/en/0_12_0s/n-/r/RelatedTo-/c/en/0_12_0-0000	/c/en/0_12_0s/n	/r/RelatedTo	/c/en/0_12_0	0 12 0s	0 12 0	related to		CN	
+/c/en/0_2_2/n-/r/RelatedTo-/c/en/driving_wheel-0000	/c/en/0_2_2/n	/r/RelatedTo	/c/en/driving_wheel	0 2 2	driving wheel	related to		CN	
+/c/en/0_2_2/n-/r/RelatedTo-/c/en/leading_wheel-0000	/c/en/0_2_2/n	/r/RelatedTo	/c/en/leading_wheel	0 2 2	leading wheel	related to		CN	
+/c/en/0_2_2/n-/r/RelatedTo-/c/en/steam_locomotive-0000	/c/en/0_2_2/n	/r/RelatedTo	/c/en/steam_locomotive	0 2 2	steam locomotive	related to		CN	
+/c/en/0_2_2/n-/r/RelatedTo-/c/en/trailing_wheel-0000	/c/en/0_2_2/n	/r/RelatedTo	/c/en/trailing_wheel	0 2 2	trailing wheel	related to		CN	
+/c/en/0_2_2/n-/r/Synonym-/c/en/a1-0000	/c/en/0_2_2/n	/r/Synonym	/c/en/a1	0 2 2	a1	synonym		CN	
+/c/en/0_2_2s/n-/r/FormOf-/c/en/0_2_2-0000	/c/en/0_2_2s/n	/r/FormOf	/c/en/0_2_2	0 2 2s	0 2 2	form of		CN	
+/c/en/0_2_2s/n-/r/RelatedTo-/c/en/0_2_2-0000	/c/en/0_2_2s/n	/r/RelatedTo	/c/en/0_2_2	0 2 2s	0 2 2	related to		CN	
+/c/en/0_4_0/n-/r/RelatedTo-/c/en/driving_wheel-0000	/c/en/0_4_0/n	/r/RelatedTo	/c/en/driving_wheel	0 4 0	driving wheel	related to		CN	
+/c/en/0_4_0/n-/r/RelatedTo-/c/en/leading_wheel-0000	/c/en/0_4_0/n	/r/RelatedTo	/c/en/leading_wheel	0 4 0	leading wheel	related to		CN	
+/c/en/0_4_0/n-/r/RelatedTo-/c/en/steam_locomotive-0000	/c/en/0_4_0/n	/r/RelatedTo	/c/en/steam_locomotive	0 4 0	steam locomotive	related to		CN	
+/c/en/0_4_0/n-/r/RelatedTo-/c/en/trailing_wheel-0000	/c/en/0_4_0/n	/r/RelatedTo	/c/en/trailing_wheel	0 4 0	trailing wheel	related to		CN	
+/c/en/0_4_0_0_4_0-/r/IsA-/c/en/garratt/n-0000	/c/en/0_4_0_0_4_0	/r/IsA	/c/en/garratt/n	0 4 0 0 4 0	garratt	is a		CN	
+/c/en/0_4_0_0_4_0/n-/r/IsA-/c/en/garratt-0000	/c/en/0_4_0_0_4_0/n	/r/IsA	/c/en/garratt	0 4 0 0 4 0	garratt	is a		CN	
+/c/en/0_4_0_0_4_0/n-/r/RelatedTo-/c/en/0_4_0-0000	/c/en/0_4_0_0_4_0/n	/r/RelatedTo	/c/en/0_4_0	0 4 0 0 4 0	0 4 0	related to		CN	
+/c/en/0_4_0_0_4_0/n-/r/RelatedTo-/c/en/boiler-0000	/c/en/0_4_0_0_4_0/n	/r/RelatedTo	/c/en/boiler	0 4 0 0 4 0	boiler	related to		CN	
+/c/en/0_4_0_0_4_0/n-/r/RelatedTo-/c/en/steam_locomotive-0000	/c/en/0_4_0_0_4_0/n	/r/RelatedTo	/c/en/steam_locomotive	0 4 0 0 4 0	steam locomotive	related to		CN	
+/c/en/0_4_0_0_4_0s/n-/r/FormOf-/c/en/0_4_0_0_4_0-0000	/c/en/0_4_0_0_4_0s/n	/r/FormOf	/c/en/0_4_0_0_4_0	0 4 0 0 4 0s	0 4 0 0 4 0	form of		CN	
+/c/en/0_4_0s/n-/r/FormOf-/c/en/0_4_0-0000	/c/en/0_4_0s/n	/r/FormOf	/c/en/0_4_0	0 4 0s	0 4 0	form of		CN	
+/c/en/0_4_0s/n-/r/RelatedTo-/c/en/0_4_0-0000	/c/en/0_4_0s/n	/r/RelatedTo	/c/en/0_4_0	0 4 0s	0 4 0	related to		CN	
+/c/en/0_4_2/n-/r/RelatedTo-/c/en/driving_wheel-0000	/c/en/0_4_2/n	/r/RelatedTo	/c/en/driving_wheel	0 4 2	driving wheel	related to		CN	
+/c/en/0_4_2/n-/r/RelatedTo-/c/en/leading_wheel-0000	/c/en/0_4_2/n	/r/RelatedTo	/c/en/leading_wheel	0 4 2	leading wheel	related to		CN	
+/c/en/0_4_2/n-/r/RelatedTo-/c/en/steam_locomotive-0000	/c/en/0_4_2/n	/r/RelatedTo	/c/en/steam_locomotive	0 4 2	steam locomotive	related to		CN	
+/c/en/0_4_2/n-/r/RelatedTo-/c/en/trailing_wheel-0000	/c/en/0_4_2/n	/r/RelatedTo	/c/en/trailing_wheel	0 4 2	trailing wheel	related to		CN	
+/c/en/0_4_2s/n-/r/FormOf-/c/en/0_4_2-0000	/c/en/0_4_2s/n	/r/FormOf	/c/en/0_4_2	0 4 2s	0 4 2	form of		CN	
+/c/en/0_4_2s/n-/r/RelatedTo-/c/en/0_4_2-0000	/c/en/0_4_2s/n	/r/RelatedTo	/c/en/0_4_2	0 4 2s	0 4 2	related to		CN	
+/c/en/0_4_4/n-/r/RelatedTo-/c/en/driving_wheel-0000	/c/en/0_4_4/n	/r/RelatedTo	/c/en/driving_wheel	0 4 4	driving wheel	related to		CN	
+/c/en/0_4_4/n-/r/RelatedTo-/c/en/leading_wheel-0000	/c/en/0_4_4/n	/r/RelatedTo	/c/en/leading_wheel	0 4 4	leading wheel	related to		CN	
+/c/en/0_4_4/n-/r/RelatedTo-/c/en/steam_locomotive-0000	/c/en/0_4_4/n	/r/RelatedTo	/c/en/steam_locomotive	0 4 4	steam locomotive	related to		CN	
+/c/en/0_4_4/n-/r/RelatedTo-/c/en/trailing_wheel-0000	/c/en/0_4_4/n	/r/RelatedTo	/c/en/trailing_wheel	0 4 4	trailing wheel	related to		CN	
+/c/en/0_4_4_0/n-/r/RelatedTo-/c/en/driving_wheel-0000	/c/en/0_4_4_0/n	/r/RelatedTo	/c/en/driving_wheel	0 4 4 0	driving wheel	related to		CN	
+/c/en/0_4_4_0/n-/r/RelatedTo-/c/en/leading_truck-0000	/c/en/0_4_4_0/n	/r/RelatedTo	/c/en/leading_truck	0 4 4 0	leading truck	related to		CN	
+/c/en/0_4_4_0/n-/r/RelatedTo-/c/en/locomotive-0000	/c/en/0_4_4_0/n	/r/RelatedTo	/c/en/locomotive	0 4 4 0	locomotive	related to		CN	
+/c/en/0_4_4_0/n-/r/RelatedTo-/c/en/mallet-0000	/c/en/0_4_4_0/n	/r/RelatedTo	/c/en/mallet	0 4 4 0	mallet	related to		CN	
+/c/en/0_4_4_0/n-/r/RelatedTo-/c/en/trailing_truck-0000	/c/en/0_4_4_0/n	/r/RelatedTo	/c/en/trailing_truck	0 4 4 0	trailing truck	related to		CN	
+/c/en/0_4_4_0s/n-/r/FormOf-/c/en/0_4_4_0-0000	/c/en/0_4_4_0s/n	/r/FormOf	/c/en/0_4_4_0	0 4 4 0s	0 4 4 0	form of		CN	
+/c/en/0_4_4_0s/n-/r/RelatedTo-/c/en/0_4_4_0-0000	/c/en/0_4_4_0s/n	/r/RelatedTo	/c/en/0_4_4_0	0 4 4 0s	0 4 4 0	related to		CN	
+/c/en/0_4_4_2/n-/r/RelatedTo-/c/en/driving_wheel-0000	/c/en/0_4_4_2/n	/r/RelatedTo	/c/en/driving_wheel	0 4 4 2	driving wheel	related to		CN	
+/c/en/0_4_4_2/n-/r/RelatedTo-/c/en/leading_truck-0000	/c/en/0_4_4_2/n	/r/RelatedTo	/c/en/leading_truck	0 4 4 2	leading truck	related to		CN	
+/c/en/0_4_4_2/n-/r/RelatedTo-/c/en/locomotive-0000	/c/en/0_4_4_2/n	/r/RelatedTo	/c/en/locomotive	0 4 4 2	locomotive	related to		CN	
+/c/en/0_4_4_2/n-/r/RelatedTo-/c/en/mallet-0000	/c/en/0_4_4_2/n	/r/RelatedTo	/c/en/mallet	0 4 4 2	mallet	related to		CN	
+/c/en/0_4_4_2/n-/r/RelatedTo-/c/en/trailing_truck-0000	/c/en/0_4_4_2/n	/r/RelatedTo	/c/en/trailing_truck	0 4 4 2	trailing truck	related to		CN	
+/c/en/0_4_4_2/n-/r/RelatedTo-/c/en/trailing_wheel-0000	/c/en/0_4_4_2/n	/r/RelatedTo	/c/en/trailing_wheel	0 4 4 2	trailing wheel	related to		CN	
+/c/en/0_4_4_2s/n-/r/FormOf-/c/en/0_4_4_2-0000	/c/en/0_4_4_2s/n	/r/FormOf	/c/en/0_4_4_2	0 4 4 2s	0 4 4 2	form of		CN	
+/c/en/0_4_4_2s/n-/r/RelatedTo-/c/en/0_4_4_2-0000	/c/en/0_4_4_2s/n	/r/RelatedTo	/c/en/0_4_4_2	0 4 4 2s	0 4 4 2	related to		CN	
+/c/en/0_4_4s/n-/r/FormOf-/c/en/0_4_4-0000	/c/en/0_4_4s/n	/r/FormOf	/c/en/0_4_4	0 4 4s	0 4 4	form of		CN	
+/c/en/0_4_4s/n-/r/RelatedTo-/c/en/0_4_4-0000	/c/en/0_4_4s/n	/r/RelatedTo	/c/en/0_4_4	0 4 4s	0 4 4	related to		CN	
+/c/en/0_60-/r/DerivedFrom-/c/en/0-0000	/c/en/0_60	/r/DerivedFrom	/c/en/0	0 60	0	derived from		CN	
+/c/en/0_60-/r/DerivedFrom-/c/en/60-0000	/c/en/0_60	/r/DerivedFrom	/c/en/60	0 60	60	derived from		CN	
+/c/en/0_60/n-/r/HasContext-/c/en/automotive-0000	/c/en/0_60/n	/r/HasContext	/c/en/automotive	0 60	automotive	has context		CN	
+/c/en/0_60/n-/r/RelatedTo-/c/en/km_h-0000	/c/en/0_60/n	/r/RelatedTo	/c/en/km_h	0 60	km h	related to		CN	
+/c/en/0_60/n-/r/RelatedTo-/c/en/standing_start-0000	/c/en/0_60/n	/r/RelatedTo	/c/en/standing_start	0 60	standing start	related to		CN	
+/c/en/0_60/n-/r/SimilarTo-/c/en/0_60_0-0000	/c/en/0_60/n	/r/SimilarTo	/c/en/0_60_0	0 60	0 60 0	similar to		CN	
+/c/en/0_60/n-/r/SimilarTo-/c/en/60_0-0000	/c/en/0_60/n	/r/SimilarTo	/c/en/60_0	0 60	60 0	similar to		CN	
+/c/en/0_60_0-/r/DerivedFrom-/c/en/0_60-0000	/c/en/0_60_0	/r/DerivedFrom	/c/en/0_60	0 60 0	0 60	derived from		CN	
+/c/en/0_60_0-/r/DerivedFrom-/c/en/60_0-0000	/c/en/0_60_0	/r/DerivedFrom	/c/en/60_0	0 60 0	60 0	derived from		CN	
+/c/en/0_60_0/n-/r/HasContext-/c/en/automotive-0000	/c/en/0_60_0/n	/r/HasContext	/c/en/automotive	0 60 0	automotive	has context		CN	
+/c/en/0_60_0/n-/r/RelatedTo-/c/en/km_h-0000	/c/en/0_60_0/n	/r/RelatedTo	/c/en/km_h	0 60 0	km h	related to		CN	
+/c/en/0_60_0/n-/r/RelatedTo-/c/en/mph-0000	/c/en/0_60_0/n	/r/RelatedTo	/c/en/mph	0 60 0	mph	related to		CN	
+/c/en/0_60_0/n-/r/RelatedTo-/c/en/standing_start-0000	/c/en/0_60_0/n	/r/RelatedTo	/c/en/standing_start	0 60 0	standing start	related to		CN	
+/c/en/0_60_0/n-/r/SimilarTo-/c/en/0_60-0000	/c/en/0_60_0/n	/r/SimilarTo	/c/en/0_60	0 60 0	0 60	similar to		CN	
+/c/en/0_60_0/n-/r/SimilarTo-/c/en/60_0-0000	/c/en/0_60_0/n	/r/SimilarTo	/c/en/60_0	0 60 0	60 0	similar to		CN	
+/c/en/0_6_0/n-/r/RelatedTo-/c/en/driving_wheel-0000	/c/en/0_6_0/n	/r/RelatedTo	/c/en/driving_wheel	0 6 0	driving wheel	related to		CN	
+/c/en/0_6_0/n-/r/RelatedTo-/c/en/leading_wheel-0000	/c/en/0_6_0/n	/r/RelatedTo	/c/en/leading_wheel	0 6 0	leading wheel	related to		CN	
+/c/en/0_6_0/n-/r/RelatedTo-/c/en/steam_locomotive-0000	/c/en/0_6_0/n	/r/RelatedTo	/c/en/steam_locomotive	0 6 0	steam locomotive	related to		CN	
+/c/en/0_6_0/n-/r/RelatedTo-/c/en/trailing_wheel-0000	/c/en/0_6_0/n	/r/RelatedTo	/c/en/trailing_wheel	0 6 0	trailing wheel	related to		CN	
+/c/en/0_6_0s/n-/r/FormOf-/c/en/0_6_0-0000	/c/en/0_6_0s/n	/r/FormOf	/c/en/0_6_0	0 6 0s	0 6 0	form of		CN	
+/c/en/0_6_0s/n-/r/RelatedTo-/c/en/0_6_0-0000	/c/en/0_6_0s/n	/r/RelatedTo	/c/en/0_6_0	0 6 0s	0 6 0	related to		CN	
+/c/en/0_6_2/n-/r/RelatedTo-/c/en/driving_wheel-0000	/c/en/0_6_2/n	/r/RelatedTo	/c/en/driving_wheel	0 6 2	driving wheel	related to		CN	
+/c/en/0_6_2/n-/r/RelatedTo-/c/en/leading_wheel-0000	/c/en/0_6_2/n	/r/RelatedTo	/c/en/leading_wheel	0 6 2	leading wheel	related to		CN	
+/c/en/0_6_2/n-/r/RelatedTo-/c/en/steam_locomotive-0000	/c/en/0_6_2/n	/r/RelatedTo	/c/en/steam_locomotive	0 6 2	steam locomotive	related to		CN	
+/c/en/0_6_2/n-/r/RelatedTo-/c/en/trailing_wheel-0000	/c/en/0_6_2/n	/r/RelatedTo	/c/en/trailing_wheel	0 6 2	trailing wheel	related to		CN	
+/c/en/0_6_2s/n-/r/FormOf-/c/en/0_6_2-0000	/c/en/0_6_2s/n	/r/FormOf	/c/en/0_6_2	0 6 2s	0 6 2	form of		CN	
+/c/en/0_6_2s/n-/r/RelatedTo-/c/en/0_6_2-0000	/c/en/0_6_2s/n	/r/RelatedTo	/c/en/0_6_2	0 6 2s	0 6 2	related to		CN	
+/c/en/0_6_4/n-/r/RelatedTo-/c/en/driving_wheel-0000	/c/en/0_6_4/n	/r/RelatedTo	/c/en/driving_wheel	0 6 4	driving wheel	related to		CN	
+/c/en/0_6_4/n-/r/RelatedTo-/c/en/leading_wheel-0000	/c/en/0_6_4/n	/r/RelatedTo	/c/en/leading_wheel	0 6 4	leading wheel	related to		CN	
+/c/en/0_6_4/n-/r/RelatedTo-/c/en/steam_locomotive-0000	/c/en/0_6_4/n	/r/RelatedTo	/c/en/steam_locomotive	0 6 4	steam locomotive	related to		CN	
+/c/en/0_6_4/n-/r/RelatedTo-/c/en/trailing_wheel-0000	/c/en/0_6_4/n	/r/RelatedTo	/c/en/trailing_wheel	0 6 4	trailing wheel	related to		CN	
+/c/en/0_6_4s/n-/r/FormOf-/c/en/0_6_4-0000	/c/en/0_6_4s/n	/r/FormOf	/c/en/0_6_4	0 6 4s	0 6 4	form of		CN	
+/c/en/0_6_4s/n-/r/RelatedTo-/c/en/0_6_4-0000	/c/en/0_6_4s/n	/r/RelatedTo	/c/en/0_6_4	0 6 4s	0 6 4	related to		CN	
+/c/en/0_6_6_0/n-/r/RelatedTo-/c/en/driving_wheel-0000	/c/en/0_6_6_0/n	/r/RelatedTo	/c/en/driving_wheel	0 6 6 0	driving wheel	related to		CN	
+/c/en/0_6_6_0/n-/r/RelatedTo-/c/en/leading_truck-0000	/c/en/0_6_6_0/n	/r/RelatedTo	/c/en/leading_truck	0 6 6 0	leading truck	related to		CN	
+/c/en/0_6_6_0/n-/r/RelatedTo-/c/en/locomotive-0000	/c/en/0_6_6_0/n	/r/RelatedTo	/c/en/locomotive	0 6 6 0	locomotive	related to		CN	
+/c/en/0_6_6_0/n-/r/RelatedTo-/c/en/mallet-0000	/c/en/0_6_6_0/n	/r/RelatedTo	/c/en/mallet	0 6 6 0	mallet	related to		CN	
+/c/en/0_6_6_0/n-/r/RelatedTo-/c/en/trailing_truck-0000	/c/en/0_6_6_0/n	/r/RelatedTo	/c/en/trailing_truck	0 6 6 0	trailing truck	related to		CN	
+/c/en/0_6_6_0s/n-/r/FormOf-/c/en/0_6_6_0-0000	/c/en/0_6_6_0s/n	/r/FormOf	/c/en/0_6_6_0	0 6 6 0s	0 6 6 0	form of		CN	
+/c/en/0_6_6_0s/n-/r/RelatedTo-/c/en/0_6_6_0-0000	/c/en/0_6_6_0s/n	/r/RelatedTo	/c/en/0_6_6_0	0 6 6 0s	0 6 6 0	related to		CN	
+/c/en/0_80_screws-/r/HasProperty-/c/en/very_small-0000	/c/en/0_80_screws	/r/HasProperty	/c/en/very_small	0 80 screws	very small	has property		CN	[[0-80 screws]] are [[very small]]
+/c/en/0_8_0/n-/r/RelatedTo-/c/en/driving_wheel-0000	/c/en/0_8_0/n	/r/RelatedTo	/c/en/driving_wheel	0 8 0	driving wheel	related to		CN	
+/c/en/0_8_0/n-/r/RelatedTo-/c/en/leading_wheel-0000	/c/en/0_8_0/n	/r/RelatedTo	/c/en/leading_wheel	0 8 0	leading wheel	related to		CN	
+/c/en/0_8_0/n-/r/RelatedTo-/c/en/steam_locomotive-0000	/c/en/0_8_0/n	/r/RelatedTo	/c/en/steam_locomotive	0 8 0	steam locomotive	related to		CN	
+/c/en/0_8_0/n-/r/RelatedTo-/c/en/trailing_wheel-0000	/c/en/0_8_0/n	/r/RelatedTo	/c/en/trailing_wheel	0 8 0	trailing wheel	related to		CN	
+/c/en/0_8_0s/n-/r/FormOf-/c/en/0_8_0-0000	/c/en/0_8_0s/n	/r/FormOf	/c/en/0_8_0	0 8 0s	0 8 0	form of		CN	
+/c/en/0_8_0s/n-/r/RelatedTo-/c/en/0_8_0-0000	/c/en/0_8_0s/n	/r/RelatedTo	/c/en/0_8_0	0 8 0s	0 8 0	related to		CN	
+/c/en/0_8_2/n-/r/RelatedTo-/c/en/driving_wheel-0000	/c/en/0_8_2/n	/r/RelatedTo	/c/en/driving_wheel	0 8 2	driving wheel	related to		CN	
+/c/en/0_8_2/n-/r/RelatedTo-/c/en/leading_wheel-0000	/c/en/0_8_2/n	/r/RelatedTo	/c/en/leading_wheel	0 8 2	leading wheel	related to		CN	
+/c/en/0_8_2/n-/r/RelatedTo-/c/en/steam_locomotive-0000	/c/en/0_8_2/n	/r/RelatedTo	/c/en/steam_locomotive	0 8 2	steam locomotive	related to		CN	
+/c/en/0_8_2/n-/r/RelatedTo-/c/en/trailing_wheel-0000	/c/en/0_8_2/n	/r/RelatedTo	/c/en/trailing_wheel	0 8 2	trailing wheel	related to		CN	
+/c/en/0_8_2s/n-/r/FormOf-/c/en/0_8_2-0000	/c/en/0_8_2s/n	/r/FormOf	/c/en/0_8_2	0 8 2s	0 8 2	form of		CN	
+/c/en/0_8_2s/n-/r/RelatedTo-/c/en/0_8_2-0000	/c/en/0_8_2s/n	/r/RelatedTo	/c/en/0_8_2	0 8 2s	0 8 2	related to		CN	
+/c/en/0_8_4/n-/r/RelatedTo-/c/en/driving_wheel-0000	/c/en/0_8_4/n	/r/RelatedTo	/c/en/driving_wheel	0 8 4	driving wheel	related to		CN	
+/c/en/0_8_4/n-/r/RelatedTo-/c/en/leading_wheel-0000	/c/en/0_8_4/n	/r/RelatedTo	/c/en/leading_wheel	0 8 4	leading wheel	related to		CN	
+/c/en/0_8_4/n-/r/RelatedTo-/c/en/steam_locomotive-0000	/c/en/0_8_4/n	/r/RelatedTo	/c/en/steam_locomotive	0 8 4	steam locomotive	related to		CN	
+/c/en/0_8_4/n-/r/RelatedTo-/c/en/trailing_wheel-0000	/c/en/0_8_4/n	/r/RelatedTo	/c/en/trailing_wheel	0 8 4	trailing wheel	related to		CN	
+/c/en/0_8_4s/n-/r/FormOf-/c/en/0_8_4-0000	/c/en/0_8_4s/n	/r/FormOf	/c/en/0_8_4	0 8 4s	0 8 4	form of		CN	
+/c/en/0_8_4s/n-/r/RelatedTo-/c/en/0_8_4-0000	/c/en/0_8_4s/n	/r/RelatedTo	/c/en/0_8_4	0 8 4s	0 8 4	related to		CN	
+/c/en/0_8_8_0-/r/RelatedTo-/c/en/angus-0000	/c/en/0_8_8_0	/r/RelatedTo	/c/en/angus	0 8 8 0	angus	related to		CN	
+/c/en/0_8_8_0/n-/r/RelatedTo-/c/en/driving_wheel-0000	/c/en/0_8_8_0/n	/r/RelatedTo	/c/en/driving_wheel	0 8 8 0	driving wheel	related to		CN	
+/c/en/0_8_8_0/n-/r/RelatedTo-/c/en/leading_truck-0000	/c/en/0_8_8_0/n	/r/RelatedTo	/c/en/leading_truck	0 8 8 0	leading truck	related to		CN	
+/c/en/0_8_8_0/n-/r/RelatedTo-/c/en/locomotive-0000	/c/en/0_8_8_0/n	/r/RelatedTo	/c/en/locomotive	0 8 8 0	locomotive	related to		CN	
+/c/en/0_8_8_0/n-/r/RelatedTo-/c/en/mallet-0000	/c/en/0_8_8_0/n	/r/RelatedTo	/c/en/mallet	0 8 8 0	mallet	related to		CN	
+/c/en/0_8_8_0/n-/r/RelatedTo-/c/en/trailing_truck-0000	/c/en/0_8_8_0/n	/r/RelatedTo	/c/en/trailing_truck	0 8 8 0	trailing truck	related to		CN	
+/c/en/0_8_8_0s/n-/r/FormOf-/c/en/0_8_8_0-0000	/c/en/0_8_8_0s/n	/r/FormOf	/c/en/0_8_8_0	0 8 8 0s	0 8 8 0	form of		CN	
+/c/en/0_8_8_0s/n-/r/RelatedTo-/c/en/0_8_8_0-0000	/c/en/0_8_8_0s/n	/r/RelatedTo	/c/en/0_8_8_0	0 8 8 0s	0 8 8 0	related to		CN	
+/c/en/0_dark_hundred-/r/RelatedTo-/c/en/beer_o'clock-0000	/c/en/0_dark_hundred	/r/RelatedTo	/c/en/beer_o'clock	0 dark hundred	beer o'clock	related to		CN	
+/c/en/0_dark_hundred/n-/r/HasContext-/c/en/military_slang-0000	/c/en/0_dark_hundred/n	/r/HasContext	/c/en/military_slang	0 dark hundred	military slang	has context		CN	
+/c/en/0_dark_hundred/n-/r/HasContext-/c/en/us-0000	/c/en/0_dark_hundred/n	/r/HasContext	/c/en/us	0 dark hundred	us	has context		CN	
+/c/en/0_dark_hundred/n-/r/RelatedTo-/c/en/0_dark_thirty-0000	/c/en/0_dark_hundred/n	/r/RelatedTo	/c/en/0_dark_thirty	0 dark hundred	0 dark thirty	related to		CN	
+/c/en/0_dark_thirty-/r/RelatedTo-/c/en/beer_o'clock-0000	/c/en/0_dark_thirty	/r/RelatedTo	/c/en/beer_o'clock	0 dark thirty	beer o'clock	related to		CN	
+/c/en/0_dark_thirty/n-/r/HasContext-/c/en/military_slang-0000	/c/en/0_dark_thirty/n	/r/HasContext	/c/en/military_slang	0 dark thirty	military slang	has context		CN	
+/c/en/0_dark_thirty/n-/r/HasContext-/c/en/us-0000	/c/en/0_dark_thirty/n	/r/HasContext	/c/en/us	0 dark thirty	us	has context		CN	
+/c/en/0_dark_thirty/n-/r/RelatedTo-/c/en/0_dark_hundred-0000	/c/en/0_dark_thirty/n	/r/RelatedTo	/c/en/0_dark_hundred	0 dark thirty	0 dark hundred	related to		CN	
+/c/en/0_day/a-/r/FormOf-/c/en/zero_day-0000	/c/en/0_day/a	/r/FormOf	/c/en/zero_day	0 day	zero day	form of		CN	
+/c/en/0_day/a-/r/HasContext-/c/en/computing-0000	/c/en/0_day/a	/r/HasContext	/c/en/computing	0 day	computing	has context		CN	
+/c/en/0_day/n-/r/FormOf-/c/en/zero_day-0000	/c/en/0_day/n	/r/FormOf	/c/en/zero_day	0 day	zero day	form of		CN	
+/c/en/0_day/n-/r/HasContext-/c/en/computing-0000	/c/en/0_day/n	/r/HasContext	/c/en/computing	0 day	computing	has context		CN	
+/c/en/0_days/n-/r/FormOf-/c/en/0_day-0000	/c/en/0_days/n	/r/FormOf	/c/en/0_day	0 days	0 day	form of		CN	
+/c/en/0_deg_lat/n-/r/RelatedTo-/c/en/equator-0000	/c/en/0_deg_lat/n	/r/RelatedTo	/c/en/equator	0 deg lat	equator	related to		CN	
+/c/en/0_degrees_celcius-/r/DefinedAs-/c/en/point_at_which_water_freezes-0000	/c/en/0_degrees_celcius	/r/DefinedAs	/c/en/point_at_which_water_freezes	0 degrees celcius	point at which water freezes	defined as		CN	[[0 degrees celcius]] is the [[point at which water freezes]]
+/c/en/0_degrees_celcius-/r/DefinedAs-/c/en/temperature_at_which_water_freezes-0000	/c/en/0_degrees_celcius	/r/DefinedAs	/c/en/temperature_at_which_water_freezes	0 degrees celcius	temperature at which water freezes	defined as		CN	[[0 degrees Celcius]] is the [[temperature at which water freezes]]
+/c/en/0_degress_farenheit-/r/HasProperty-/c/en/very_cold-0000	/c/en/0_degress_farenheit	/r/HasProperty	/c/en/very_cold	0 degress farenheit	very cold	has property		CN	[[0 degress farenheit]] is [[very cold]]
+/c/en/0r-/r/EtymologicallyRelatedTo-/c/en/er-0000	/c/en/0r	/r/EtymologicallyRelatedTo	/c/en/er	0r	er	etymologically related to		CN	
+/c/en/0r-/r/EtymologicallyRelatedTo-/c/en/or-0000	/c/en/0r	/r/EtymologicallyRelatedTo	/c/en/or	0r	or	etymologically related to		CN	
+/c/en/0r-/r/HasContext-/c/en/internet_slang-0000	/c/en/0r	/r/HasContext	/c/en/internet_slang	0r	internet slang	has context		CN	
+/c/en/0r-/r/HasContext-/c/en/leet-0000	/c/en/0r	/r/HasContext	/c/en/leet	0r	leet	has context		CN	
+/c/en/0r-/r/HasContext-/c/en/nonstandard-0000	/c/en/0r	/r/HasContext	/c/en/nonstandard	0r	nonstandard	has context		CN	
+/c/en/0s/n-/r/FormOf-/c/en/0-0000	/c/en/0s/n	/r/FormOf	/c/en/0	0s	0	form of		CN	
+/c/en/0s/n-/r/RelatedTo-/c/en/0-0000	/c/en/0s/n	/r/RelatedTo	/c/en/0	0s	0	related to		CN	
+/c/en/0th-/r/DerivedFrom-/c/en/0/n-0000	/c/en/0th	/r/DerivedFrom	/c/en/0/n	0th	0	derived from		CN	
+/c/en/0tlps/n-/r/FormOf-/c/en/0tlp-0000	/c/en/0tlps/n	/r/FormOf	/c/en/0tlp	0tlps	0tlp	form of		CN	
+/c/en/1-/r/CapableOf-/c/en/equal_1-0000	/c/en/1	/r/CapableOf	/c/en/equal_1	1	equal 1	capable of		CN	[[1]] can [[equal 1]]
+/c/en/1-/r/HasContext-/c/en/internet-0000	/c/en/1	/r/HasContext	/c/en/internet	1	internet	has context		CN	
+/c/en/1-/r/HasContext-/c/en/internet_slang-0000	/c/en/1	/r/HasContext	/c/en/internet_slang	1	internet slang	has context		CN	
+/c/en/1-/r/HasContext-/c/en/leet-0000	/c/en/1	/r/HasContext	/c/en/leet	1	leet	has context		CN	
+/c/en/1-/r/HasContext-/c/en/sarcastic-0000	/c/en/1	/r/HasContext	/c/en/sarcastic	1	sarcastic	has context		CN	
